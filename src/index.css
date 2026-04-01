@@ -55,7 +55,7 @@ body {
 .layout {
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  height: calc(100vh - 64px);
   overflow: hidden;
 }
 
@@ -67,8 +67,12 @@ body {
   align-items: center;
   justify-content: space-between;
   padding: 0 1.5rem;
-  z-index: 10;
+  z-index: 9999;
   box-shadow: var(--shadow-sm);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
 }
 
 .header-left, .header-right {

@@ -1,0 +1,697 @@
+{
+  "matchedProducts": [
+    {
+      "product": {
+        "rowIndex": 8,
+        "sourceType": "estimate",
+        "displayName": "SLWH826LO",
+        "productCodes": [],
+        "itemCode": "",
+        "originalData": {
+          "﻿ItemCode": "NoCode",
+          "ItemName": "SLWH826LO",
+          "Quantity": "2",
+          "UnitPrice": "0",
+          "TotalPrice": "0",
+          "MatchStatus": "Unmatched",
+          "MatchedProductCode": ""
+        }
+      },
+      "ppts": [],
+      "pdfs": [
+        {
+          "path": "refarence（仮）/STW-H826_A_SLW-H826_LO.pdf",
+          "name": "STW-H826_A_SLW-H826_LO.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H826_A_SLW-H826_LO",
+          "compareStr": "STWH826ASLWH826LO",
+          "baseCode": "STW-H826A",
+          "looseBase": "STWH826A"
+        }
+      ]
+    },
+    {
+      "product": {
+        "rowIndex": 9,
+        "sourceType": "estimate",
+        "displayName": "SCNH802ACLOBK",
+        "productCodes": [
+          "S・CN-H802・AC・LO・BK"
+        ],
+        "itemCode": "",
+        "originalData": {
+          "﻿ItemCode": "NoCode",
+          "ItemName": "SCNH802ACLOBK",
+          "Quantity": "8",
+          "UnitPrice": "60200",
+          "TotalPrice": "481600",
+          "MatchStatus": "ExactCodeMatch",
+          "MatchedProductCode": "S・CN-H802・AC・LO・BK"
+        }
+      },
+      "ppts": [
+        {
+          "path": "refarence（仮）/【製品情報】S・CN-H802・AC・LO・BE.pptx",
+          "name": "【製品情報】S・CN-H802・AC・LO・BE.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CN-H802・AC・LO・BE",
+          "compareStr": "SCNH802ACLOBE",
+          "baseCode": "SCN-H802",
+          "looseBase": "SCNH802"
+        }
+      ],
+      "pdfs": []
+    },
+    {
+      "product": {
+        "rowIndex": 12,
+        "sourceType": "estimate",
+        "displayName": "SCNH802ACHIBK",
+        "productCodes": [
+          "S・CN-H802・AC・HI・BK"
+        ],
+        "itemCode": "",
+        "originalData": {
+          "﻿ItemCode": "NoCode",
+          "ItemName": "SCNH802ACHIBK",
+          "Quantity": "4",
+          "UnitPrice": "66500",
+          "TotalPrice": "266000",
+          "MatchStatus": "ExactCodeMatch",
+          "MatchedProductCode": "S・CN-H802・AC・HI・BK"
+        }
+      },
+      "ppts": [
+        {
+          "path": "refarence（仮）/【製品情報】S・CN-H802・AC・LO・BE.pptx",
+          "name": "【製品情報】S・CN-H802・AC・LO・BE.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CN-H802・AC・LO・BE",
+          "compareStr": "SCNH802ACLOBE",
+          "baseCode": "SCN-H802",
+          "looseBase": "SCNH802"
+        }
+      ],
+      "pdfs": []
+    },
+    {
+      "product": {
+        "rowIndex": 14,
+        "sourceType": "estimate",
+        "displayName": "SCS482BK",
+        "productCodes": [
+          "S・CS-482・BK"
+        ],
+        "itemCode": "",
+        "originalData": {
+          "﻿ItemCode": "NoCode",
+          "ItemName": "SCS482BK",
+          "Quantity": "12",
+          "UnitPrice": "80300",
+          "TotalPrice": "963600",
+          "MatchStatus": "ExactCodeMatch",
+          "MatchedProductCode": "S・CS-482・BK"
+        }
+      },
+      "ppts": [
+        {
+          "path": "refarence（仮）/【製品情報】S・CS-482・BK.pptx",
+          "name": "【製品情報】S・CS-482・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CS-482・BK",
+          "compareStr": "SCS482BK",
+          "baseCode": "SCS-482",
+          "looseBase": "SCS482"
+        }
+      ],
+      "pdfs": []
+    },
+    {
+      "product": {
+        "rowIndex": 15,
+        "sourceType": "estimate",
+        "displayName": "STTG774BSQTNA+SLSG774BBK+SOSG774TP+SOAG774MA",
+        "productCodes": [
+          "S・LS-G774・B・BK",
+          "S・OA-G774・MA"
+        ],
+        "itemCode": "",
+        "originalData": {
+          "﻿ItemCode": "NoCode",
+          "ItemName": "STTG774BSQTNA+SLSG774BBK+SOSG774TP+SOAG774MA",
+          "Quantity": "2",
+          "UnitPrice": "812000",
+          "TotalPrice": "1624000",
+          "MatchStatus": "PartialCompositeMatch",
+          "MatchedProductCode": "[Unknown:STTG774BSQTNA]+S・LS-G774・B・BK+[Unknown:SOSG774TP]+S・OA-G774・MA"
+        }
+      },
+      "ppts": [
+        {
+          "path": "refarence（仮）/【製品情報】S・TT-G774A・B・TA・OM_S・LS-G774A・B・BK_S・OA-G774・MA_S・OS-G774A・TP.pptx",
+          "name": "【製品情報】S・TT-G774A・B・TA・OM_S・LS-G774A・B・BK_S・OA-G774・MA_S・OS-G774A・TP.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TT-G774A・B・TA・OM_S・LS-G774A・B・BK_S・OA-G774・MA_S・OS-G774A・TP",
+          "compareStr": "STTG774ABTAOMSLSG774ABBKSOAG774MASOSG774ATP",
+          "baseCode": "STT-G774A",
+          "looseBase": "STTG774A"
+        }
+      ],
+      "pdfs": []
+    },
+    {
+      "product": {
+        "rowIndex": 18,
+        "sourceType": "estimate",
+        "displayName": "SOAG774MA",
+        "productCodes": [
+          "S・OA-G774・MA"
+        ],
+        "itemCode": "",
+        "originalData": {
+          "﻿ItemCode": "NoCode",
+          "ItemName": "SOAG774MA",
+          "Quantity": "2",
+          "UnitPrice": "202000",
+          "TotalPrice": "404000",
+          "MatchStatus": "ExactCodeMatch",
+          "MatchedProductCode": "S・OA-G774・MA"
+        }
+      },
+      "ppts": [
+        {
+          "path": "refarence（仮）/【製品情報】S・TT-G774A・B・TA・OM_S・LS-G774A・B・BK_S・OA-G774・MA_S・OS-G774A・TP.pptx",
+          "name": "【製品情報】S・TT-G774A・B・TA・OM_S・LS-G774A・B・BK_S・OA-G774・MA_S・OS-G774A・TP.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TT-G774A・B・TA・OM_S・LS-G774A・B・BK_S・OA-G774・MA_S・OS-G774A・TP",
+          "compareStr": "STTG774ABTAOMSLSG774ABBKSOAG774MASOSG774ATP",
+          "baseCode": "STT-G774A",
+          "looseBase": "STTG774A"
+        }
+      ],
+      "pdfs": []
+    },
+    {
+      "product": {
+        "rowIndex": 20,
+        "sourceType": "estimate",
+        "displayName": "SCN70MACBK",
+        "productCodes": [
+          "S・CN-70・M・AC・BK"
+        ],
+        "itemCode": "",
+        "originalData": {
+          "﻿ItemCode": "NoCode",
+          "ItemName": "SCN70MACBK",
+          "Quantity": "10",
+          "UnitPrice": "91800",
+          "TotalPrice": "918000",
+          "MatchStatus": "ExactCodeMatch",
+          "MatchedProductCode": "S・CN-70・M・AC・BK"
+        }
+      },
+      "ppts": [
+        {
+          "path": "refarence（仮）/【製品情報】S・CN-70・M・AC・BK.pptx",
+          "name": "【製品情報】S・CN-70・M・AC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CN-70・M・AC・BK",
+          "compareStr": "SCN70MACBK",
+          "baseCode": "SCN-70",
+          "looseBase": "SCN70"
+        }
+      ],
+      "pdfs": []
+    }
+  ],
+  "unmatchedProducts": [
+    {
+      "rowIndex": 0,
+      "sourceType": "estimate",
+      "displayName": "STME615A",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "STME615A",
+        "Quantity": "2",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 1,
+      "sourceType": "estimate",
+      "displayName": "SCNE612ACBK",
+      "productCodes": [
+        "S・CN-E612・AC・BK"
+      ],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "SCNE612ACBK",
+        "Quantity": "8",
+        "UnitPrice": "73900",
+        "TotalPrice": "591200",
+        "MatchStatus": "ExactCodeMatch",
+        "MatchedProductCode": "S・CN-E612・AC・BK"
+      }
+    },
+    {
+      "rowIndex": 2,
+      "sourceType": "estimate",
+      "displayName": "STTE614LWNL+SLSE614LLBK",
+      "productCodes": [
+        "S・LS-E614・L・LBK"
+      ],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "STTE614LWNL+SLSE614LLBK",
+        "Quantity": "4",
+        "UnitPrice": "267000",
+        "TotalPrice": "1068000",
+        "MatchStatus": "PartialCompositeMatch",
+        "MatchedProductCode": "[Unknown:STTE614LWNL]+S・LS-E614・L・LBK"
+      }
+    },
+    {
+      "rowIndex": 3,
+      "sourceType": "estimate",
+      "displayName": "STTE614LWNL",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "STTE614LWNL",
+        "Quantity": "4",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 4,
+      "sourceType": "estimate",
+      "displayName": "SLSE614LLBK",
+      "productCodes": [
+        "S・LS-E614・L・LBK"
+      ],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "SLSE614LLBK",
+        "Quantity": "4",
+        "UnitPrice": "267000",
+        "TotalPrice": "1068000",
+        "MatchStatus": "ExactCodeMatch",
+        "MatchedProductCode": "S・LS-E614・L・LBK"
+      }
+    },
+    {
+      "rowIndex": 5,
+      "sourceType": "estimate",
+      "displayName": "STWH826ATNA+SLWH826LO+SOAH819",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "STWH826ATNA+SLWH826LO+SOAH819",
+        "Quantity": "2",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 6,
+      "sourceType": "estimate",
+      "displayName": "STWH826ATNA",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "STWH826ATNA",
+        "Quantity": "4",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 7,
+      "sourceType": "estimate",
+      "displayName": "SOAH819",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "SOAH819",
+        "Quantity": "8",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 10,
+      "sourceType": "estimate",
+      "displayName": "STWH826ATNA+SLWH826HI+SOAH819",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "STWH826ATNA+SLWH826HI+SOAH819",
+        "Quantity": "2",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 11,
+      "sourceType": "estimate",
+      "displayName": "SLWH826HI",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "SLWH826HI",
+        "Quantity": "2",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 13,
+      "sourceType": "estimate",
+      "displayName": "STM3400ABLN",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "STM3400ABLN",
+        "Quantity": "3",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 16,
+      "sourceType": "estimate",
+      "displayName": "SLSG774BBK",
+      "productCodes": [
+        "S・LS-G774・B・BK"
+      ],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "SLSG774BBK",
+        "Quantity": "2",
+        "UnitPrice": "610000",
+        "TotalPrice": "1220000",
+        "MatchStatus": "ExactCodeMatch",
+        "MatchedProductCode": "S・LS-G774・B・BK"
+      }
+    },
+    {
+      "rowIndex": 17,
+      "sourceType": "estimate",
+      "displayName": "STTG774BSQTNA",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "STTG774BSQTNA",
+        "Quantity": "2",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 19,
+      "sourceType": "estimate",
+      "displayName": "SOSG774TP",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "SOSG774TP",
+        "Quantity": "2",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 21,
+      "sourceType": "estimate",
+      "displayName": "STWH790SQAOM+SLWH790ALOOM+SOAH790MB+SOAH825BK",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "STWH790SQAOM+SLWH790ALOOM+SOAH790MB+SOAH825BK",
+        "Quantity": "1",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 22,
+      "sourceType": "estimate",
+      "displayName": "STWH790SQFOM+SLWH790FLOOM+SOAH790MB+SOAH825BK",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "STWH790SQFOM+SLWH790FLOOM+SOAH790MB+SOAH825BK",
+        "Quantity": "1",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 23,
+      "sourceType": "estimate",
+      "displayName": "STWH790SQEOM+SLWH790ELOOM+SOAH790MB+SOAH825BK",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "STWH790SQEOM+SLWH790ELOOM+SOAH790MB+SOAH825BK",
+        "Quantity": "1",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 24,
+      "sourceType": "estimate",
+      "displayName": "STWH790SQGOM+SLWH790GLOOM+SOAH790MB+SOAH825BK",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "STWH790SQGOM+SLWH790GLOOM+SOAH790MB+SOAH825BK",
+        "Quantity": "1",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 25,
+      "sourceType": "estimate",
+      "displayName": "SLWH790ALOOM",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "SLWH790ALOOM",
+        "Quantity": "1",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 26,
+      "sourceType": "estimate",
+      "displayName": "STWH790SQAOM",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "STWH790SQAOM",
+        "Quantity": "1",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 27,
+      "sourceType": "estimate",
+      "displayName": "SOAH790MB",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "SOAH790MB",
+        "Quantity": "4",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 28,
+      "sourceType": "estimate",
+      "displayName": "SOAH825BK",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "SOAH825BK",
+        "Quantity": "8",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 29,
+      "sourceType": "estimate",
+      "displayName": "STWH790SQFOM",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "STWH790SQFOM",
+        "Quantity": "1",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 30,
+      "sourceType": "estimate",
+      "displayName": "SLWH790FLOOM",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "SLWH790FLOOM",
+        "Quantity": "1",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 31,
+      "sourceType": "estimate",
+      "displayName": "STWH790SQGOM",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "STWH790SQGOM",
+        "Quantity": "1",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 32,
+      "sourceType": "estimate",
+      "displayName": "SLWH790GLOOM",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "SLWH790GLOOM",
+        "Quantity": "1",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 33,
+      "sourceType": "estimate",
+      "displayName": "STWH790SQEOM",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "STWH790SQEOM",
+        "Quantity": "1",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    },
+    {
+      "rowIndex": 34,
+      "sourceType": "estimate",
+      "displayName": "SLWH790ELOOM",
+      "productCodes": [],
+      "itemCode": "",
+      "originalData": {
+        "﻿ItemCode": "NoCode",
+        "ItemName": "SLWH790ELOOM",
+        "Quantity": "1",
+        "UnitPrice": "0",
+        "TotalPrice": "0",
+        "MatchStatus": "Unmatched",
+        "MatchedProductCode": ""
+      }
+    }
+  ],
+  "duplicateCandidates": [],
+  "summary": {
+    "pptCount": 6,
+    "pdfCount": 1
+  }
+}

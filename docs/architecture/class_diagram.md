@@ -2,30 +2,53 @@
 
 ## エンティティ・リレーション設計
 
-本システムはRDBMSを持たず、CSVのアップロードデータをメモリ上で処理・構造化する設計となっています。以下は内部データ構造（モデル）のER図相当のクラス構造です。
+本システムはRDBMSを持たず、モック段階として `localStorage('teian_projects')` を中心に案件データを管理しています。
+各案件がヒアリング回答、自動レイアウト状態、CSV連携状態を内包する設計です。
 
 ```mermaid
 erDiagram
-    CSV_DATA ||--o{ PRODUCT_ITEM : contains
-    PRODUCT_ITEM ||--o{ S3_FILE : matches
+    PROJECT ||--o| QUESTIONNAIRE_ANSWER : "contains (1:1)"
+    PROJECT ||--o| AUTO_LAYOUT : "has flag (status)"
+    PROJECT ||--o| ESTIMATE_CSV : "links to (s3Key)"
     
-    CSV_DATA {
-        string jobId "一意の処理ID"
-        string formatType "CSVフォーマット"
-        string uploadedAt "アップロード日時"
+    ESTIMATE_CSV ||--o{ MATCHED_ITEM : "extracts"
+
+    PROJECT {
+        string id "案件の一意なID (ex: 177501...)"
+        string name "案件名"
+        string date "作成日時"
+        string version "提案書バージョン"
+        boolean isAnswered "ヒアリング回答済みか"
+        boolean hasAutoLayout "自動レイアウト作成済みか"
+        string s3Key "連携中のS3 CSVキー"
+    }
+
+    QUESTIONNAIRE_ANSWER {
+        string space "必要なスペース"
+        string address "住所"
+        number floorSpace "床面積(坪)"
+        number employees "社員数"
+        number deskWidth "デスク幅(mm)"
+        number deskDepth "デスク奥行(mm)"
     }
     
-    PRODUCT_ITEM {
+    AUTO_LAYOUT {
+        string dxfFile "アップロードされたDXFファイル"
+        string layoutImage "生成されたレイアウト画像 (layout.png)"
+        int totalPrice "配置家具合計金額"
+    }
+
+    ESTIMATE_CSV {
+        string s3Key "S3のオブジェクトキー"
+        string filename "CSVファイル名"
+        date lastModified "S3更新日時"
+        number size "ファイルサイズ"
+    }
+    
+    MATCHED_ITEM {
         string productId "製品品番"
-        string productName "製品名"
         int quantity "数量"
-        string matchStatus "マッチ状態"
-    }
-    
-    S3_FILE {
-        string fileKey "S3オブジェクトキー"
-        string fileType "PDFまたはPPTX"
-        int fileSize "ファイルサイズ"
-        string downloadUrl "一時URL"
+        string pdfPath "S3上のPDFパス"
+        string pptxPath "S3上のPPTXパス"
     }
 ```
