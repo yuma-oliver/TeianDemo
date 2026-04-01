@@ -1,78 +1,51 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
-import { ArrowRight, FileText, Zap, Shield } from 'lucide-react';
+import { useNavigate } from 'react-router-dom';
+import { ChevronRight } from 'lucide-react';
 import './Landing.css';
 
 function Landing() {
+  const navigate = useNavigate();
+
   return (
     <div className="landing-page">
-      <main className="landing-hero">
-        <div className="hero-content">
-          <div className="badge-pill">✨ 新世代の提案書自動生成プラットフォーム</div>
-          <h1 className="hero-title">
-            提案業務を、<br />
-            <span className="text-gradient">圧倒的にスマートに。</span>
+      {/* フルスクリーンビデオ背景 */}
+      <div className="video-background">
+        <video 
+          autoPlay 
+          muted 
+          loop 
+          playsInline 
+          // オフィスやレイアウト作業を連想させるダミーのフリー動画をセット（後で差し替え可能）
+          src="https://cdn.pixabay.com/video/2020/06/19/42555-430985920_large.mp4" 
+        ></video>
+        <div className="video-overlay"></div>
+      </div>
+
+      <div className="landing-content">
+        <main className="landing-hero-center">
+          <h1 className="hero-title-main">
+            提案のすべてを、<br />
+            一つのプラットフォームで。
           </h1>
-          <p className="hero-subtitle">
-            過去の提案書や資料から最適な情報をAIが自動抽出し、<br />
-            ワンクリックで高品質な提案書（PDF/PPT）を生成します。
+          <p className="hero-subtitle-main">
+            ヒアリング、AI自動レイアウト、見積データ連携から提案書抽出まで。<br />
+            オフィスデザインの業務プロセスを圧倒的にスマートにする次世代システム。
           </p>
-          <div className="hero-actions">
-            <Link to="/register" className="btn btn-primary btn-large">
-              今すぐ始める <ArrowRight size={20} />
-            </Link>
-            <Link to="/dashboard" className="btn btn-secondary btn-large">
-              デモ画面を見る
-            </Link>
+          
+          <div className="hero-actions-main">
+            <button className="btn-primary-large" onClick={() => navigate('/dashboard')}>
+              アカウントを作成する <ChevronRight size={20} />
+            </button>
+            <button className="btn-glass-large" onClick={() => navigate('/dashboard')}>
+              ログイン
+            </button>
           </div>
-        </div>
+        </main>
 
-        <div className="hero-visual">
-          <div className="glass-panel main-panel">
-            {/* ダミーのUIを表現 */}
-            <div className="panel-header">
-              <div className="dots">
-                <span className="dot red"></span><span className="dot yellow"></span><span className="dot green"></span>
-              </div>
-            </div>
-            <div className="panel-body">
-              <div className="skeleton-line title"></div>
-              <div className="skeleton-line"></div>
-              <div className="skeleton-line short"></div>
-              <div className="stats-grid">
-                <div className="stat-card"></div>
-                <div className="stat-card"></div>
-              </div>
-            </div>
-          </div>
-          <div className="glass-panel floating-panel-1">
-            <FileText size={32} color="#2563EB" />
-            <span>PDF統合完了</span>
-          </div>
-          <div className="glass-panel floating-panel-2">
-            <Zap size={32} color="#F59E0B" />
-            <span>データ抽出完了</span>
-          </div>
-        </div>
-      </main>
-
-      <section className="landing-features">
-        <div className="feature-card">
-          <div className="feature-icon"><FileText size={24} /></div>
-          <h3 className="feature-title">ドキュメント自動統合</h3>
-          <p className="feature-desc">PDFやPPTなどの複数ドキュメントをシームレスに一つのファイルにマージします。</p>
-        </div>
-        <div className="feature-card">
-          <div className="feature-icon"><Zap size={24} /></div>
-          <h3 className="feature-title">超高速なデータ抽出</h3>
-          <p className="feature-desc">必要な情報を瞬時に抽出し、整理された形でエクスポートします。作業時間を大幅に削減。</p>
-        </div>
-        <div className="feature-card">
-          <div className="feature-icon"><Shield size={24} /></div>
-          <h3 className="feature-title">セキュアな設計</h3>
-          <p className="feature-desc">最新のセキュリティ基準に準拠し、機密性の高いドキュメントを安全に処理します。</p>
-        </div>
-      </section>
+        <footer className="landing-footer" style={{ position: 'absolute', bottom: '2rem', width: '100%' }}>
+          <p>© 2026 DISP Platform. All rights reserved.</p>
+        </footer>
+      </div>
     </div>
   );
 }

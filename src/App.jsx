@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Navigate, useLocation } from 'react-router-dom';
 import Landing from './pages/Landing';
 import Login from './pages/Login';
 import Register from './pages/Register';
@@ -13,11 +13,14 @@ import GeneralSettings from './pages/GeneralSettings';
 import Header from './components/layout/Header';
 import './index.css';
 
-function App() {
+function AppContent() {
+  const location = useLocation();
+  const isFullScreenPage = ['/', '/login', '/register'].includes(location.pathname);
+
   return (
-    <BrowserRouter>
-      <Header />
-      <div style={{ paddingTop: '64px' }}>
+    <>
+      {!isFullScreenPage && <Header />}
+      <div style={{ paddingTop: isFullScreenPage ? '0' : '64px', height: '100%' }}>
         <Routes>
           <Route path="/" element={<Landing />} />
           <Route path="/login" element={<Login />} />
@@ -32,6 +35,14 @@ function App() {
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
       </div>
+    </>
+  );
+}
+
+function App() {
+  return (
+    <BrowserRouter>
+      <AppContent />
     </BrowserRouter>
   );
 }
