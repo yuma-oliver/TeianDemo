@@ -1,0 +1,3439 @@
+{
+  "matchedProducts": [
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "1",
+        "itemCode": "1",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "1",
+          "色番括弧あり": "1",
+          "": "1",
+          "張地ランク": "1",
+          "カラー": "1",
+          "product_code(カラー変更）": "1",
+          "価格": "76500",
+          "品目CD": "1"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "S・OG-960・A・1",
+        "itemCode": "SOG960A1",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "S・OG-960・A",
+          "色番括弧あり": "S・OG-960・A",
+          "": "1",
+          "張地ランク": "/",
+          "カラー": "1",
+          "product_code(カラー変更）": "S・OG-960・A・1",
+          "価格": "76500",
+          "品目CD": "SOG960A1"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        }
+      ],
+      "pdfs": []
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "1",
+        "itemCode": "1",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "1",
+          "色番括弧あり": "1",
+          "": "1",
+          "張地ランク": "1",
+          "カラー": "1",
+          "product_code(カラー変更）": "1",
+          "価格": "89000",
+          "品目CD": "1"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "S・CU-A160・AC・B・OKC・1",
+        "itemCode": "SCUA160ACBOKC1",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "S・CU-A160・AC・B・OKC・BK",
+          "色番括弧あり": "S・CU-A160・AC・B・OKC・（BK）",
+          "": "1",
+          "張地ランク": "/",
+          "カラー": "1",
+          "product_code(カラー変更）": "S・CU-A160・AC・B・OKC・1",
+          "価格": "89000",
+          "品目CD": "SCUA160ACBOKC1"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        }
+      ],
+      "pdfs": []
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "0",
+          "": "0",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "0",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "0",
+          "": "0",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "0",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "1",
+          "": "1",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "1",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "0",
+          "": "0",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "0",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "0",
+          "": "0",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "0",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "S・CW-106A・NB・AC・G・STF",
+        "itemCode": "SCW106ANBACGSTF",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "S・CW-106A・NB・AC・G・STF",
+          "色番括弧あり": "S・CW-106A・（NB）・AC・G・STF",
+          "": "1",
+          "張地ランク": "C",
+          "カラー": "NB",
+          "product_code(カラー変更）": "S・CW-106A・NB・AC・G・STF",
+          "価格": "58100",
+          "品目CD": "SCW106ANBACGSTF"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        }
+      ],
+      "pdfs": []
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "S・CW-106A・NB・AC・G・STF",
+        "itemCode": "SCW106ANBACGSTF",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "S・CW-106A・NB・AC・G・STF",
+          "色番括弧あり": "S・CW-106A・（NB）・AC・G・STF",
+          "": "1",
+          "張地ランク": "C",
+          "カラー": "NB",
+          "product_code(カラー変更）": "S・CW-106A・NB・AC・G・STF",
+          "価格": "58100",
+          "品目CD": "SCW106ANBACGSTF"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        }
+      ],
+      "pdfs": []
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "S・CW-106A・NB・AC・G・STF",
+        "itemCode": "SCW106ANBACGSTF",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "S・CW-106A・NB・AC・G・STF",
+          "色番括弧あり": "S・CW-106A・（NB）・AC・G・STF",
+          "": "1",
+          "張地ランク": "C",
+          "カラー": "NB",
+          "product_code(カラー変更）": "S・CW-106A・NB・AC・G・STF",
+          "価格": "58100",
+          "品目CD": "SCW106ANBACGSTF"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        }
+      ],
+      "pdfs": []
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "S・TW-H820・C・1",
+        "itemCode": "STWH820C1",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "S・TW-H820・C・OM",
+          "色番括弧あり": "S・TW-H820・C・（OM）",
+          "": "1",
+          "張地ランク": "/",
+          "カラー": "1",
+          "product_code(カラー変更）": "S・TW-H820・C・1",
+          "価格": "689000",
+          "品目CD": "STWH820C1"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": []
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "S・CW-106A・NB・AC・G・STF",
+        "itemCode": "SCW106ANBACGSTF",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "S・CW-106A・NB・AC・G・STF",
+          "色番括弧あり": "S・CW-106A・（NB）・AC・G・STF",
+          "": "1",
+          "張地ランク": "C",
+          "カラー": "NB",
+          "product_code(カラー変更）": "S・CW-106A・NB・AC・G・STF",
+          "価格": "58100",
+          "品目CD": "SCW106ANBACGSTF"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        }
+      ],
+      "pdfs": []
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "S・CW-106A・NB・AC・G・STF",
+        "itemCode": "SCW106ANBACGSTF",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "S・CW-106A・NB・AC・G・STF",
+          "色番括弧あり": "S・CW-106A・（NB）・AC・G・STF",
+          "": "1",
+          "張地ランク": "C",
+          "カラー": "NB",
+          "product_code(カラー変更）": "S・CW-106A・NB・AC・G・STF",
+          "価格": "58100",
+          "品目CD": "SCW106ANBACGSTF"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        }
+      ],
+      "pdfs": []
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "S・CW-106A・NB・AC・G・STF",
+        "itemCode": "SCW106ANBACGSTF",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "S・CW-106A・NB・AC・G・STF",
+          "色番括弧あり": "S・CW-106A・（NB）・AC・G・STF",
+          "": "1",
+          "張地ランク": "C",
+          "カラー": "NB",
+          "product_code(カラー変更）": "S・CW-106A・NB・AC・G・STF",
+          "価格": "58100",
+          "品目CD": "SCW106ANBACGSTF"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        }
+      ],
+      "pdfs": []
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "1",
+        "itemCode": "1",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "1",
+          "色番括弧あり": "1",
+          "": "1",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "1",
+          "価格": "102000",
+          "品目CD": "1"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "0",
+          "": "0",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "0",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "0",
+          "": "0",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "0",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "0",
+          "": "0",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "0",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "0",
+          "": "0",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "0",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "S・CU-A160・AC・B・OKC・1",
+        "itemCode": "SCUA160ACBOKC1",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "S・CU-A160・AC・B・OKC・BK",
+          "色番括弧あり": "S・CU-A160・AC・B・OKC・（BK）",
+          "": "1",
+          "張地ランク": "/",
+          "カラー": "1",
+          "product_code(カラー変更）": "S・CU-A160・AC・B・OKC・1",
+          "価格": "89000",
+          "品目CD": "SCUA160ACBOKC1"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        }
+      ],
+      "pdfs": []
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "S・CU-A160・AC・B・OKC・1",
+        "itemCode": "SCUA160ACBOKC1",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "S・CU-A160・AC・B・OKC・BK",
+          "色番括弧あり": "S・CU-A160・AC・B・OKC・（BK）",
+          "": "1",
+          "張地ランク": "/",
+          "カラー": "1",
+          "product_code(カラー変更）": "S・CU-A160・AC・B・OKC・1",
+          "価格": "89000",
+          "品目CD": "SCUA160ACBOKC1"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        }
+      ],
+      "pdfs": []
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "0",
+          "": "0",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "0",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "0",
+          "": "0",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "0",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "0",
+          "": "0",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "0",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "2",
+        "itemCode": "2",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "2",
+          "色番括弧あり": "2",
+          "": "2",
+          "張地ランク": "1",
+          "カラー": "1",
+          "product_code(カラー変更）": "2",
+          "価格": "735500",
+          "品目CD": "2"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "S・CW-106A・・AC・G",
+        "itemCode": "SCW106AACG",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "S・CW-106A・NB・AC・G",
+          "色番括弧あり": "S・CW-106A・（NB）・AC・G",
+          "": "1",
+          "張地ランク": "",
+          "カラー": "",
+          "product_code(カラー変更）": "S・CW-106A・・AC・G",
+          "価格": "46500",
+          "品目CD": "SCW106AACG"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "S・TW-H820・C・1",
+        "itemCode": "STWH820C1",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "S・TW-H820・C・OM",
+          "色番括弧あり": "S・TW-H820・C・（OM）",
+          "": "1",
+          "張地ランク": "/",
+          "カラー": "1",
+          "product_code(カラー変更）": "S・TW-H820・C・1",
+          "価格": "689000",
+          "品目CD": "STWH820C1"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": []
+    }
+  ],
+  "unmatchedProducts": [
+    {
+      "symbolName": "",
+      "productColor": "7",
+      "itemCode": "7",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "7",
+        "色番括弧あり": "7",
+        "": "7",
+        "張地ランク": "7",
+        "カラー": "7",
+        "product_code(カラー変更）": "7",
+        "価格": "1037600",
+        "品目CD": "7"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "S・CN-2B・SC1・K・",
+      "itemCode": "SCN2BSC1K",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S・CN-2B・SC1・K",
+        "色番括弧あり": "S・CN-2B・SC1・K",
+        "": "1",
+        "張地ランク": "",
+        "カラー": "",
+        "product_code(カラー変更）": "S・CN-2B・SC1・K・",
+        "価格": "102000",
+        "品目CD": "SCN2BSC1K"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "5",
+      "itemCode": "5",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "5",
+        "色番括弧あり": "5",
+        "": "5",
+        "張地ランク": "0",
+        "カラー": "0",
+        "product_code(カラー変更）": "5",
+        "価格": "661800",
+        "品目CD": "5"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "S・CG-312・AC・",
+      "itemCode": "SCG312AC",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S・CG-312・AC",
+        "色番括弧あり": "S・CG-312・AC",
+        "": "1",
+        "張地ランク": "",
+        "カラー": "",
+        "product_code(カラー変更）": "S・CG-312・AC・",
+        "価格": "70800",
+        "品目CD": "SCG312AC"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "S・CG-5532A・",
+      "itemCode": "SCG5532A",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S・CG-5532A",
+        "色番括弧あり": "S・CG-5532A",
+        "": "1",
+        "張地ランク": "",
+        "カラー": "",
+        "product_code(カラー変更）": "S・CG-5532A・",
+        "価格": "117000",
+        "品目CD": "SCG5532A"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "S・TJ-1001A・・P",
+      "itemCode": "STJ1001AP",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S・TJ-1001A・NB2・P",
+        "色番括弧あり": "S・TJ-1001A・（NB2）・P",
+        "": "1",
+        "張地ランク": "",
+        "カラー": "",
+        "product_code(カラー変更）": "S・TJ-1001A・・P",
+        "価格": "200000",
+        "品目CD": "STJ1001AP"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "S・TF-860A・B・",
+      "itemCode": "STF860AB",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S・TF-860A・B",
+        "色番括弧あり": "S・TF-860A・B",
+        "": "1",
+        "張地ランク": "",
+        "カラー": "",
+        "product_code(カラー変更）": "S・TF-860A・B・",
+        "価格": "0",
+        "品目CD": "STF860AB"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "S・CU-202・LC・OKC・",
+      "itemCode": "SCU202LCOKC",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S・CU-202・LC・OKC",
+        "色番括弧あり": "S・CU-202・LC・OKC",
+        "": "1",
+        "張地ランク": "",
+        "カラー": "",
+        "product_code(カラー変更）": "S・CU-202・LC・OKC・",
+        "価格": "274000",
+        "品目CD": "SCU202LCOKC"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "5",
+      "itemCode": "5",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "5",
+        "色番括弧あり": "5",
+        "": "5",
+        "張地ランク": "0",
+        "カラー": "0",
+        "product_code(カラー変更）": "5",
+        "価格": "227602",
+        "品目CD": "5"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "登録なしC・",
+      "itemCode": "登録なしC",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S･SM-72･CCK",
+        "色番括弧あり": "登録なしC",
+        "": "1",
+        "張地ランク": "",
+        "カラー": "",
+        "product_code(カラー変更）": "登録なしC・",
+        "価格": "登録なしC",
+        "品目CD": "登録なしC"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "S・SM-72・AL・",
+      "itemCode": "SSM72AL",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S・SM-72・AL",
+        "色番括弧あり": "S・SM-72・AL",
+        "": "1",
+        "張地ランク": "",
+        "カラー": "",
+        "product_code(カラー変更）": "S・SM-72・AL・",
+        "価格": "62800",
+        "品目CD": "SSM72AL"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "S・SM-72・CCR・",
+      "itemCode": "SSM72CCR",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S・SM-72・CCR",
+        "色番括弧あり": "S・SM-72・CCR",
+        "": "1",
+        "張地ランク": "",
+        "カラー": "",
+        "product_code(カラー変更）": "S・SM-72・CCR・",
+        "価格": "102000",
+        "品目CD": "SSM72CCR"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "S・SM-72・AL・",
+      "itemCode": "SSM72AL",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S・SM-72・AL",
+        "色番括弧あり": "S・SM-72・AL",
+        "": "1",
+        "張地ランク": "",
+        "カラー": "",
+        "product_code(カラー変更）": "S・SM-72・AL・",
+        "価格": "62800",
+        "品目CD": "SSM72AL"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "登録なしC・",
+      "itemCode": "登録なしC",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S･SM-72･CCK",
+        "色番括弧あり": "登録なしC",
+        "": "1",
+        "張地ランク": "",
+        "カラー": "",
+        "product_code(カラー変更）": "登録なしC・",
+        "価格": "登録なしC",
+        "品目CD": "登録なしC"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "12",
+      "itemCode": "12",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "12",
+        "色番括弧あり": "12",
+        "": "12",
+        "張地ランク": "12",
+        "カラー": "12",
+        "product_code(カラー変更）": "12",
+        "価格": "975200",
+        "品目CD": "12"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "S・LB-04・1・65",
+      "itemCode": "SLB04165",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S・LB-04・BL・65",
+        "色番括弧あり": "S・LB-04・（BL）・65",
+        "": "1",
+        "張地ランク": "/",
+        "カラー": "1",
+        "product_code(カラー変更）": "S・LB-04・1・65",
+        "価格": "24800",
+        "品目CD": "SLB04165"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "S・TM-E620・TA・C・1",
+      "itemCode": "STME620TAC1",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S・TM-E620・TA・C・MO2・BR",
+        "色番括弧あり": "S・TM-E620・TA・C・（MO2・BR）",
+        "": "1",
+        "張地ランク": "/",
+        "カラー": "1",
+        "product_code(カラー変更）": "S・TM-E620・TA・C・1",
+        "価格": "158000",
+        "品目CD": "STME620TAC1"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "S・CS-111C・BR2・ST",
+      "itemCode": "SCS111CBR2ST",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S・CS-111C・WN・ST",
+        "色番括弧あり": "S・CS-111C・（WN）・ST",
+        "": "1",
+        "張地ランク": "C",
+        "カラー": "BR2",
+        "product_code(カラー変更）": "S・CS-111C・BR2・ST",
+        "価格": "76200",
+        "品目CD": "SCS111CBR2ST"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "S・CS-111C・BR2・ST",
+      "itemCode": "SCS111CBR2ST",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S・CS-111C・WN・ST",
+        "色番括弧あり": "S・CS-111C・（WN）・ST",
+        "": "1",
+        "張地ランク": "C",
+        "カラー": "BR2",
+        "product_code(カラー変更）": "S・CS-111C・BR2・ST",
+        "価格": "76200",
+        "品目CD": "SCS111CBR2ST"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "S・CS-111C・BR2・ST",
+      "itemCode": "SCS111CBR2ST",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S・CS-111C・WN・ST",
+        "色番括弧あり": "S・CS-111C・（WN）・ST",
+        "": "1",
+        "張地ランク": "C",
+        "カラー": "BR2",
+        "product_code(カラー変更）": "S・CS-111C・BR2・ST",
+        "価格": "76200",
+        "品目CD": "SCS111CBR2ST"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "S・CS-111C・BR2・ST",
+      "itemCode": "SCS111CBR2ST",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S・CS-111C・WN・ST",
+        "色番括弧あり": "S・CS-111C・（WN）・ST",
+        "": "1",
+        "張地ランク": "C",
+        "カラー": "BR2",
+        "product_code(カラー変更）": "S・CS-111C・BR2・ST",
+        "価格": "76200",
+        "品目CD": "SCS111CBR2ST"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "S・LB-04・1・65",
+      "itemCode": "SLB04165",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S・LB-04・BL・65",
+        "色番括弧あり": "S・LB-04・（BL）・65",
+        "": "1",
+        "張地ランク": "/",
+        "カラー": "1",
+        "product_code(カラー変更）": "S・LB-04・1・65",
+        "価格": "24800",
+        "品目CD": "SLB04165"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "S・TM-E620・TA・C・1",
+      "itemCode": "STME620TAC1",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S・TM-E620・TA・C・MO2・BR",
+        "色番括弧あり": "S・TM-E620・TA・C・（MO2・BR）",
+        "": "1",
+        "張地ランク": "/",
+        "カラー": "1",
+        "product_code(カラー変更）": "S・TM-E620・TA・C・1",
+        "価格": "158000",
+        "品目CD": "STME620TAC1"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "S・CS-111C・BR2・ST",
+      "itemCode": "SCS111CBR2ST",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S・CS-111C・WN・ST",
+        "色番括弧あり": "S・CS-111C・（WN）・ST",
+        "": "1",
+        "張地ランク": "C",
+        "カラー": "BR2",
+        "product_code(カラー変更）": "S・CS-111C・BR2・ST",
+        "価格": "76200",
+        "品目CD": "SCS111CBR2ST"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "S・CS-111C・BR2・ST",
+      "itemCode": "SCS111CBR2ST",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S・CS-111C・WN・ST",
+        "色番括弧あり": "S・CS-111C・（WN）・ST",
+        "": "1",
+        "張地ランク": "C",
+        "カラー": "BR2",
+        "product_code(カラー変更）": "S・CS-111C・BR2・ST",
+        "価格": "76200",
+        "品目CD": "SCS111CBR2ST"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "S・CS-111C・BR2・ST",
+      "itemCode": "SCS111CBR2ST",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S・CS-111C・WN・ST",
+        "色番括弧あり": "S・CS-111C・（WN）・ST",
+        "": "1",
+        "張地ランク": "C",
+        "カラー": "BR2",
+        "product_code(カラー変更）": "S・CS-111C・BR2・ST",
+        "価格": "76200",
+        "品目CD": "SCS111CBR2ST"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "S・CS-111C・BR2・ST",
+      "itemCode": "SCS111CBR2ST",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S・CS-111C・WN・ST",
+        "色番括弧あり": "S・CS-111C・（WN）・ST",
+        "": "1",
+        "張地ランク": "C",
+        "カラー": "BR2",
+        "product_code(カラー変更）": "S・CS-111C・BR2・ST",
+        "価格": "76200",
+        "品目CD": "SCS111CBR2ST"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "3",
+      "itemCode": "3",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "3",
+        "色番括弧あり": "3",
+        "": "3",
+        "張地ランク": "3",
+        "カラー": "3",
+        "product_code(カラー変更）": "3",
+        "価格": "255000",
+        "品目CD": "3"
+      }
+    },
+    {
+      "symbolName": "",
+      "productColor": "S・TW-842・1・M",
+      "itemCode": "STW8421M",
+      "originalData": {
+        "﻿シンボル名(normal_product_code)": "S・TW-842・NB・M",
+        "色番括弧あり": "S・TW-842・（NB）・M",
+        "": "1",
+        "張地ランク": "/",
+        "カラー": "1",
+        "product_code(カラー変更）": "S・TW-842・1・M",
+        "価格": "77000",
+        "品目CD": "STW8421M"
+      }
+    }
+  ],
+  "duplicateCandidates": [
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "1",
+        "itemCode": "1",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "1",
+          "色番括弧あり": "1",
+          "": "1",
+          "張地ランク": "1",
+          "カラー": "1",
+          "product_code(カラー変更）": "1",
+          "価格": "76500",
+          "品目CD": "1"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "1",
+        "itemCode": "1",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "1",
+          "色番括弧あり": "1",
+          "": "1",
+          "張地ランク": "1",
+          "カラー": "1",
+          "product_code(カラー変更）": "1",
+          "価格": "89000",
+          "品目CD": "1"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "0",
+          "": "0",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "0",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "0",
+          "": "0",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "0",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "1",
+          "": "1",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "1",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "0",
+          "": "0",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "0",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "0",
+          "": "0",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "0",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "1",
+        "itemCode": "1",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "1",
+          "色番括弧あり": "1",
+          "": "1",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "1",
+          "価格": "102000",
+          "品目CD": "1"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "0",
+          "": "0",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "0",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "0",
+          "": "0",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "0",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "0",
+          "": "0",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "0",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "0",
+          "": "0",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "0",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "0",
+          "": "0",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "0",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "0",
+          "": "0",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "0",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    },
+    {
+      "product": {
+        "symbolName": "",
+        "productColor": "0",
+        "itemCode": "0",
+        "originalData": {
+          "﻿シンボル名(normal_product_code)": "0",
+          "色番括弧あり": "0",
+          "": "0",
+          "張地ランク": "0",
+          "カラー": "0",
+          "product_code(カラー変更）": "0",
+          "価格": "0",
+          "品目CD": "0"
+        }
+      },
+      "ppts": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "name": "【製品情報】S・CU-A160・AC・B・OKC・BK.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CU-A160・AC・B・OKC・BK",
+          "compareStr": "SCUA160ACBOKCBK",
+          "baseCode": "SCU-A160",
+          "looseBase": "SCUA160"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "name": "【製品情報】S・CW-106A・NB・AC・G.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・CW-106A・NB・AC・G",
+          "compareStr": "SCW106ANBACG",
+          "baseCode": "SCW-106A",
+          "looseBase": "SCW106A"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・OG-960・A.pptx",
+          "name": "【製品情報】S・OG-960・A.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・OG-960・A",
+          "compareStr": "SOG960A",
+          "baseCode": "SOG-960",
+          "looseBase": "SOG960"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "name": "【製品情報】S・TW-H820・C・OM_S・LW-H820・C・OM.pptx",
+          "ext": ".pptx",
+          "type": "ppt",
+          "normalizedName": "S・TW-H820・C・OM_S・LW-H820・C・OM",
+          "compareStr": "STWH820COMSLWH820COM",
+          "baseCode": "STW-H820",
+          "looseBase": "STWH820"
+        }
+      ],
+      "pdfs": [
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCU-A160.pdf",
+          "name": "SCU-A160.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCU-A160",
+          "compareStr": "SCUA160",
+          "baseCode": "SCU-A160.PDF",
+          "looseBase": "SCUA160.PDF"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/SCW-106A_AC_G.pdf",
+          "name": "SCW-106A_AC_G.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "SCW-106A_AC_G",
+          "compareStr": "SCW106AACG",
+          "baseCode": "SCW-106AAC",
+          "looseBase": "SCW106AAC"
+        },
+        {
+          "path": "C:/Users/yu-tanioka/yuma_oliver/02-OtherProject/22_Revit+AWS/AWSorBox（仮）/STW-H820_C_SLW-H820_C.pdf",
+          "name": "STW-H820_C_SLW-H820_C.pdf",
+          "ext": ".pdf",
+          "type": "pdf",
+          "normalizedName": "STW-H820_C_SLW-H820_C",
+          "compareStr": "STWH820CSLWH820C",
+          "baseCode": "STW-H820C",
+          "looseBase": "STWH820C"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "pptCount": 68,
+    "pdfCount": 44
+  }
+}
