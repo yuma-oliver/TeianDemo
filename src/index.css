@@ -428,3 +428,66 @@ tbody tr:hover { background-color: var(--surface-hover); }
 
 @keyframes spin { to { transform: rotate(360deg); } }
 .animate-spin { animation: spin 1s linear infinite; }
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .app-header {
+    padding: 0 1rem;
+  }
+  
+  .search-bar-mock {
+    display: none; /* Hide on mobile */
+  }
+  
+  .layout-body {
+    flex-direction: column;
+  }
+  
+  .left-sidebar {
+    width: 100%;
+    height: auto;
+    border-right: none;
+    border-bottom: 1px solid var(--border);
+    padding: 1rem;
+    flex: none;
+    max-height: 250px;
+  }
+  
+  .nav-menu {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  
+  .nav-item {
+    flex: 1 1 auto;
+    justify-content: flex-start;
+    padding: 0.5rem 0.75rem;
+  }
+  
+  .nav-section-title {
+    width: 100%;
+    margin-top: 0.5rem !important;
+    margin-bottom: 0.25rem !important;
+  }
+  
+  .main-content {
+    padding: 1rem;
+  }
+  
+  .right-sidebar {
+    width: 100%;
+    border-left: none;
+    border-top: 1px solid var(--border);
+    padding: 1rem;
+  }
+
+  .grid-cols-2 {
+    grid-template-columns: 1fr;
+  }
+
+  .card {
+    padding: 1.5rem;
+  }
+}
+

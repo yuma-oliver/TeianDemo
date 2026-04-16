@@ -307,3 +307,50 @@
   font-weight: 700;
   cursor: pointer;
 }
+
+/* Responsive Adjustments */
+@media (max-width: 1024px) {
+  .alw-upload-container, .alw-result-container {
+    flex-direction: column;
+    height: auto;
+  }
+  
+  .alw-map-area {
+    min-height: 400px;
+  }
+  
+  .alw-bottom-actions {
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 768px) {
+  .alw-header {
+    padding: 1rem;
+  }
+  
+  .alw-title {
+    font-size: 1.1rem;
+  }
+  
+  .alw-main {
+    padding: 1rem;
+  }
+  
+  .alw-answers-box {
+    padding: 1rem;
+  }
+  
+  .alw-btn-zoning {
+    width: 100%;
+  }
+  
+  .alw-map-area {
+    min-height: 250px;
+  }
+  
+  .alw-btn-outline, .alw-btn-green {
+    flex: 1 1 100%;
+    text-align: center;
+  }
+}
